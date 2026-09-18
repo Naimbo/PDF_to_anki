@@ -1,0 +1,5 @@
+anki_env/
+Decks/
+edge_tts_samples/
+rhvoice_tts_samples/
+*.pdf
