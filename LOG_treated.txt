@@ -1,0 +1,19 @@
+Generating audio with edge, voice ru-RU-DmitryNeural ...
+Edge TTS error for 'Мальчик крепко держал маму за руку.': No audio was received. Please verify that your parameters are correct.
+Edge TTS error for 'Я не могу ничего сказать об остальных актёрах.': No audio was received. Please verify that your parameters are correct.
+Edge TTS error for 'Какова разница между этими словами?': No audio was received. Please verify that your parameters are correct.
+Edge TTS error for 'В его словах есть некоторый скрытый смысл.': No audio was received. Please verify that your parameters are correct.
+Edge TTS error for 'an obvious fact - after all, but (A shorter form of ‘же’) Почему ты мне не веришь? Я ж говорю правду!': No audio was received. Please verify that your parameters are correct.
+Edge TTS error for 'Уровень образованности в стране повысился.': No audio was received. Please verify that your parameters are correct.
+Edge TTS error for 'плохой': No audio was received. Please verify that your parameters are correct.
+Edge TTS error for 'Я хочу хотя бы попытаться помириться с ней.': No audio was received. Please verify that your parameters are correct.
+Edge TTS error for 'здоровье': No audio was received. Please verify that your parameters are correct.
+Edge TTS error for 'Прочтите текст и далее ответьте на вопросы.': No audio was received. Please verify that your parameters are correct.
+Edge TTS error for 'Я хочу немного отдохнуть, послушать музыку и расслабиться.': No audio was received. Please verify that your parameters are correct.
+Edge TTS error for 'Пожалуйста, принеси лимонад. Он возле микроволновки, справа.': No audio was received. Please verify that your parameters are correct.
+Warning: audio failed for #57 sentence, #174 sentence, #191 sentence, #232 sentence, #285 sentence, #767 sentence, #1063 word, #1082 sentence, #1240 word, #1426 sentence, #1518 sentence, #1902 sentence
+Generated 3982 audio clips.
+Wrote russian_2000.apkg
+(anki_env) sm@Pindi:~/Documents/Projets/PDF_TO_ANKI$ 
+
+
