@@ -3,3 +3,5 @@ Decks/
 edge_tts_samples/
 rhvoice_tts_samples/
 *.pdf
+*.apkg
+tts_cache/
