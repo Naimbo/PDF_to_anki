@@ -1,0 +1,4 @@
+#1689 облако (sentence_slow)
+#1755 пожилой (sentence_slow)
+#1912 вывести (sentence_slow)
+#1982 эпоха (sentence_slow)

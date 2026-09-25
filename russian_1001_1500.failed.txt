@@ -1,0 +1,7 @@
+#1397 территория (sentence_slow)
+#1429 морской (sentence_slow)
+#1434 осень (sentence_slow)
+#1441 вариант (sentence_slow)
+#1473 перейти (sentence_slow)
+#1483 способность (sentence_slow)
+#1485 остальное (sentence_slow)
