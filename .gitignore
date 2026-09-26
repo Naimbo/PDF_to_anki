@@ -5,3 +5,4 @@ rhvoice_tts_samples/
 *.pdf
 *.apkg
 tts_cache/
+llm_cache/
